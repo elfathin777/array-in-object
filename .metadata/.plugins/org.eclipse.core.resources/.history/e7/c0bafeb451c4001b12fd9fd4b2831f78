@@ -1,0 +1,12 @@
+package arrayTes;
+
+public class ArrayExample {
+	public static void main(String [] args) {
+		String dataProdi = {"Administrasi", "Agroteknologi", "Teknik Elektro", "Bahasa Arab", "Bahasa Inggris", "Teknik Informatika", "Fisika", "Kimia", "Biologi", "Managemen"};
+		
+		System.out.println(dataProdi[1]);
+		System.out.println(dataProdi[3]);
+		System.out.println(dataProdi[5]);
+	}
+
+}
